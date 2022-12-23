@@ -11,7 +11,7 @@ public class first {
         double b = in.nextDouble();
         System.out.print("Input c: ");
         double c = in.nextDouble();
-        z = ((a-3)*b/2) + c;
+        z = ((a - 3) * b / 2) + c;
         System.out.println("z = " + z);
         in.close();
     }
